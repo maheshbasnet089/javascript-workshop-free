@@ -71,6 +71,8 @@ console.log(juttas[3])
 // iloveprogramming --> camelCase --> iLoveProgramming
 // iamfromnepal --> camelCase ---> iAmFromNepal
 
+firstname --> camelCase --> firstName
+
 
 // kebab-case (VUE)
 // iloveprogramming --> kebab-case --> i-love-programming
@@ -79,3 +81,19 @@ console.log(juttas[3])
 // iloveprogramming --> i_love_programming
 // iamfromnepal -->- i_am_from_nepal
 
+
+
+let firstName = "Manish"
+let last_name = "Basnet"
+let middle_name = "No Name"
+
+
+
+
+
+
+
+
+
+
+console.log(firstName)
